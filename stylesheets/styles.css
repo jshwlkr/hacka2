@@ -560,7 +560,7 @@ a small {
 }
 
 ul {
-  list-style-image: url("../images/bullet.png");
+  list-style-image: url("../images/leaf.png");
 }
 
 strong {
@@ -731,7 +731,7 @@ header p {
 }
 #banner .button {
   border: 1px solid #D1575A;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FC4B50), color-stop(100%, #FC4B50));
   background: -webkit-linear-gradient(#FD6A6E, #FC4B50);
   background: -moz-linear-gradient(#FD6A6E, #FC4B50);
   background: -o-linear-gradient(#FD6A6E, #FC4B50);

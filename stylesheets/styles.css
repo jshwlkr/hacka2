@@ -550,7 +550,7 @@ h3 {
 a {
   color: #fc4b50;
   font-weight: 400;
-  //text-decoration: none;
+  text-decoration: none;
 }
 
 a small {
@@ -825,6 +825,10 @@ section {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4);
 }
 
+section a {
+    text-decoration: underline;
+}
+
 small {
   font-size: 12px;
 }
@@ -846,8 +850,7 @@ nav ul {
 nav ul li {
   padding: 5px 0px;
   line-height: 16px;
-    background-color: #fc4b50;
-    margin-top: 3px;
+
 }
 nav ul li.tag-h1 {
   font-size: 1.2em;

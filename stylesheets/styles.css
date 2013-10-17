@@ -507,7 +507,7 @@ table {
 body {
   //font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font: 14px/22px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+color: #112639;
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
@@ -516,7 +516,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #112639;
   margin: 0 0 10px;
 }
 
@@ -687,7 +687,7 @@ header {
 header h1 {
   //font: 40px/48px  "Helvetica Neue", Helvetica, Arial, sans-serif;
 font: 52px/62px 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFF;
+  color: #2D506F;
   //text-shadow: 0px 2px 0px #235796;
   margin: 0px;
   white-space: nowrap;
@@ -697,7 +697,7 @@ font: 52px/62px 'Montserrat', "Helvetica Neue", Helvetica, Arial, sans-serif;
   -ms-text-overflow: ellipsis;
 }
 header p {
-  color: #d8d8d8;
+  color: #112639;
  //text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0;
   font-size: 18px;
   margin: 0px;
@@ -711,8 +711,8 @@ header p {
   margin-right: -382px;
   position: fixed;
   top: 115px;
-  background-color: #334657;
-  border: 1px solid #f0b500;
+  background-color: #2D506F;
+  border: 1px solid #112639;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -730,12 +730,12 @@ header p {
   margin-right: 55px;
 }
 #banner .button {
-  border: 1px solid #dba500;
+  border: 1px solid #D1575A;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffce38));
-  background: -webkit-linear-gradient(#ffe788, #ffce38);
-  background: -moz-linear-gradient(#ffe788, #ffce38);
-  background: -o-linear-gradient(#ffe788, #ffce38);
-  background: linear-gradient(#ffe788, #ffce38);
+  background: -webkit-linear-gradient(#FD6A6E, #FC4B50);
+  background: -moz-linear-gradient(#FD6A6E, #FC4B50);
+  background: -o-linear-gradient(#FD6A6E, #FC4B50);
+  background: linear-gradient(#FD6A6E, #FC4B50);
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
@@ -744,24 +744,24 @@ header p {
   -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
-  background-color: #FFE788;
+  background-color: #FD6A6E;
   margin-left: 5px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
-  color: #333;
+  color: #112639;
   font-weight: bold;
   display: inline-block;
   text-align: center;
     float:right;
 }
 #banner .button:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#ffe788, #ffe788);
-  background: -moz-linear-gradient(#ffe788, #ffe788);
-  background: -o-linear-gradient(#ffe788, #ffe788);
-  background: linear-gradient(#ffe788, #ffe788);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FD6A6E), color-stop(100%, #FD6A6E));
+  background: -webkit-linear-gradient(#FD6A6E, #FD6A6E);
+  background: -moz-linear-gradient(#FD6A6E, #FD6A6E);
+  background: -o-linear-gradient(#FD6A6E, #FD6A6E);
+  background: linear-gradient(#FD6A6E, #FD6A6E);
   background-color: #ffeca0;
 }
 

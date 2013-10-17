@@ -507,13 +507,12 @@ table {
 body {
   //font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font: 14px/22px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #666;
-  color: #666;
+
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
   //background: url(../images/body-background.png) #eae6d1;
-    background: url(../images/Wood-4.png);
+   //background: url(../images/Wood-4.png);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -712,7 +711,7 @@ header p {
   margin-right: -382px;
   position: fixed;
   top: 115px;
-  //background: #ffcc00;
+  background-color: #334657;
   border: 1px solid #f0b500;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -755,6 +754,7 @@ header p {
   font-weight: bold;
   display: inline-block;
   text-align: center;
+    float:right;
 }
 #banner .button:hover {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
@@ -764,6 +764,8 @@ header p {
   background: linear-gradient(#ffe788, #ffe788);
   background-color: #ffeca0;
 }
+
+/*
 #banner .fork {
   padding: 10px 12px;
   margin-top: 6px;
@@ -797,6 +799,7 @@ header p {
 #banner ul li a.button {
   background-color: #FFE788;
 }
+*/
 #banner #logo {
   position: absolute;
   height: 36px;
@@ -808,6 +811,7 @@ header p {
 }
 
 section {
+  
   width: 590px;
   padding: 30px 30px 10px 30px;
   margin: 20px 0;

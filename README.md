@@ -11,6 +11,6 @@ Submissions, ideas, requests for edits will be accepted via github's issue track
 
 To-Do
 ------
-[ ] Cost of living, income (maps)?
-[ ] Funding options in Michigan and Ann Arbor?
+-[ ] Cost of living, income (maps)?
+-[ ] Funding options in Michigan and Ann Arbor?
 

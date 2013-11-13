@@ -366,7 +366,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -679,10 +679,10 @@ header {
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
-    
-    
-    
-    
+
+
+
+
 }
 header h1 {
   //font: 40px/48px  "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -811,7 +811,7 @@ header p {
 }
 
 section {
-  
+
   width: 590px;
   padding: 30px 30px 10px 30px;
   margin: 20px 0;
@@ -913,6 +913,9 @@ footer {
     margin: 0 auto;
     max-width: none;
   }
+  #banner .button {
+    margin-right: 20px;
+  }
   #banner .downloads {
     margin-right: 20px;
   }
@@ -929,7 +932,6 @@ footer {
 
   section {
     border: 1px solid #e5e5e5;
-    border-width: 1px 0;
     padding: 20px auto;
     margin: 190px auto 20px;
     max-width: 600px;

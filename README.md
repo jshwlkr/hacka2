@@ -4,7 +4,7 @@ A hacker/maker/developer/startup's guide to Ann Arbor.
 
 See it here: <http://jshwlkr.github.io/hacka2/> or <http://hackannarbor.com>
 
-Submissions, ideas, requests for edits will be accepted via GitHub's issue tracker and pull requests. Additionally you can make requests via my Twitter account [@jshwlkr](https://twitter.com/jshwlkr). The chosen hashtag for this project is #hacka2. All content available via an MIT license.
+Submissions, ideas, requests for edits will be accepted via GitHub's issue tracker and pull requests. Additionally you can make requests via my Twitter account [@jshwlkr](https://twitter.com/jshwlkr). The chosen hashtag for this project is [#hacka2](https://twitter.com/hashtag/hacka2). All content available via an MIT license.
 
 A little explanation here: <http://snowandbones.com/2013/11/03/hack-ann-arbor/>
 

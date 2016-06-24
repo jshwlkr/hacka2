@@ -1,0 +1,26 @@
+{
+  "name": "hacka2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "check-pages": "^0.10.0",
+    "gulp": "^3.9.1",
+    "gulp-develop-server": "^0.5.2",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshwlkr/hacka2.git"
+  },
+  "author": "@jshwlkr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshwlkr/hacka2/issues"
+  },
+  "homepage": "hackannarbor.com"
+}

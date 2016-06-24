@@ -1,0 +1,8 @@
+{
+  "indent": {
+    "value": "  ",
+    "FunctionExpression": 1,
+    "ArrayExpression": 0,
+    "ObjectExpression": 0
+  }
+}

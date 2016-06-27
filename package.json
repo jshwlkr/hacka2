@@ -7,8 +7,7 @@
   "devDependencies": {
     "check-pages": "^0.10.0",
     "gulp": "^3.9.1",
-    "gulp-develop-server": "^0.5.2",
-    "gulp-webserver": "^0.9.1"
+    "gulp-connect": "^4.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

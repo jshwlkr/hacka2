@@ -1,4 +1,4 @@
 language: node_js
 before_script:
-  - npm install -g gulp gulp-webserver check-pages
+  - npm install -g gulp gulp-connect check-pages eslint
 script: gulp
